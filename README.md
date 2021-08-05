@@ -1,6 +1,25 @@
 <h1 align="center">Hello 👋, I'm Logan</h1>
 <h3 align="center">Software Developer | Technical Trainer | Python Enthusiast</h3>
 
+<p align="center">
+<a href="https://linkedin.com/in/logan-thomas">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=gray"/>
+</a>
+
+
+<a href="https://twitter.com/__loges__">
+  <img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&labelColor=gray"/>
+</a>
+
+<a href="https://dev.to/loganthomas">
+  <img src="https://img.shields.io/badge/Dev.to-black?style=flat&logo=dev.to&labelColor=gray"/>
+</a>
+
+<a href="https://komarev.com/ghpvc/?username=loganthomas&label=Views">
+  <img src="https://komarev.com/ghpvc/?username=loganthomas&label=Views"/>
+</a>
+</p>
+
 ## Areas of Expertise
 - Data Science
 - Machine Learning
@@ -19,7 +38,7 @@
 ## Other Notable Information
 ![Logans's GitHub stats](https://github-readme-stats.vercel.app/api?username=loganthomas&count_private=true&show_icons=true&include_all_commits=true&border_color=2e4058)
 
-![](https://komarev.com/ghpvc/?username=loganthomas&label=Views)
+
 
 <!--
 **loganthomas/loganthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
