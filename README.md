@@ -29,7 +29,7 @@
 
 ## Technologies & Programming Languages
 ### Contributions
-<img src = './logos/python.svg' width='30'/> <img src = './logos/scikit-learn.svg' width='60'/> <img src = './logos/xarray.png' width='60'> <img src = './logos/pyjanitor.png' width='30'/> <img src = './logos/datacamp.svg' width='70'/>
+<img src = './logos/numpy.svg' width='30'/> <img src = './logos/scikit-learn.svg' width='60'/> <img src = './logos/xarray.png' width='60'> <img src = './logos/pyjanitor.png' width='30'/> <img src = './logos/datacamp.svg' width='70'/>
 
 ### Daily Use
 <img src = './logos/python.svg' width='30'/> <img src = './logos/numpy.svg' width='30'/> <img src = './logos/pandas.svg' width='60'/> <img src = './logos/scikit-learn.svg' width='60'/> <img src = './logos/pytorch.svg' width='30'/> <img src = './logos/tensorflow.svg' width='30'/> <img src = './logos/keras.svg' width='30'/> <img src = './logos/jupyter.svg' width='30'/> <img src = './logos/matplotlib.svg' width='30'/> <img src = './logos/plotly.svg' width='60'/> <img src = './logos/seaborn.svg' width='60'/> <img src = './logos/vim.svg' width='30'/> <img src = './logos/git-icon.svg' width='30'/> <img src = './logos/github-icon.svg' width='30'/> <img src = './logos/slack.svg' width='30'/> <img src = './logos/visual-studio-code.svg' width='30'/>
