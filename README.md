@@ -25,7 +25,7 @@
 - Machine Learning
 - Teaching & Mentoring
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loganthomas&hide=Jupyter%20Notebook&layout=compact&border_color=2e4058)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=loganthomas&hide=Jupyter%20Notebook&layout=compact&border_color=2e4058)
 
 ## Technologies & Programming Languages
 ### Contributions
@@ -39,7 +39,7 @@
 <img src = './logos/digital-ocean.svg' width='60'/> <img src = './logos/discord.svg' width='60'/> <img src = './logos/django.svg' width='60'/> <img src = './logos/google-cloud.svg' width='30'/> <img src = './logos/gunicorn.svg' width='60'/> <img src = './logos/homebrew.svg' width='30'/> <img src = './logos/macOS.svg' width='60'/> <img src = './logos/microsoft-windows.svg' width='30'/> <img src = './logos/nginx.svg' width='30'/> <img src = './logos/opencv.svg' width='40'/> <img src = './logos/r-lang.svg' width='30'/> <img src = './logos/sqlite.svg' width='60'/> <img src = './logos/travis-ci.svg' width='30'/>
 
 ## Other Notable Information
-![Logans's GitHub stats](https://github-readme-stats.vercel.app/api?username=loganthomas&count_private=true&show_icons=true&include_all_commits=true&border_color=2e4058)
+![Logans's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=loganthomas&count_private=true&show_icons=true&include_all_commits=true&border_color=2e4058)
 
 
 
