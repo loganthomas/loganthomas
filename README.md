@@ -42,6 +42,9 @@
   <a href='https://github.com/xarray-contrib/xarray-tutorial/issues?q=author%3Aloganthomas+'>
     <img src='./logos/xarray.png' width='70'>
   </a>
+  <a href='https://github.com/pytorch/pytorch/issues?q=author%3Aloganthomas+'>
+    <img src='./logos/pytorch.svg' width='30'>
+  </a>
   <a href='https://github.com/pyjanitor-devs/pyjanitor/issues?q=is%3Aclosed+mentions%3Aloganthomas'>
     <img src='./logos/pyjanitor.png' width='30'>
   </a>
