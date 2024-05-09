@@ -104,8 +104,10 @@
   <img src='./logos/travis-ci.svg' width='30'>
 </div>
 
+<!--
 ## Other Notable Information
 ![Logans's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=loganthomas&count_private=true&show_icons=true&include_all_commits=true&border_color=2e4058)
+-->
 
 
 
