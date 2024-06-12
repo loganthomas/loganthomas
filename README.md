@@ -25,22 +25,96 @@
 - Machine Learning
 - Teaching & Mentoring
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loganthomas&hide=Jupyter%20Notebook&layout=compact&border_color=2e4058)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=loganthomas&hide=Jupyter%20Notebook&layout=compact&border_color=2e4058)
+
 
 ## Technologies & Programming Languages
 ### Contributions
-<img src = './logos/numpy.svg' width='30'/> <img src = './logos/scikit-learn.svg' width='60'/> <img src = './logos/xarray.png' width='60'> <img src = './logos/pyjanitor.png' width='30'/> <img src = './logos/deap.png' width='60'/> <img src = './logos/datacamp.svg' width='70'/>
+<div>
+  <a href='https://github.com/numpy/numpy/issues?q=is%3Aclosed+mentions%3Aloganthomas+'>
+    <img src='./logos/numpy.svg' width='30' title='NumPy' style='display: none;'>
+  </a>
+  <a href='https://github.com/scipy/scipy/issues?q=is%3Aclosed+mentions%3Aloganthomas+'>
+    <img src='./logos/scipy-logo.svg' width='30' title='SciPy' style='display: none;'>
+  </a>
+  <a href='https://github.com/scipy-conference/scipy-conference/pulls?q=is%3Apr+is%3Aclosed+author%3Aloganthomas+'>
+    <img src='./logos/scipy-logo.svg' width='30' title='SciPy Conference' style='display: none;'>
+  </a>
+  <a href='https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aclosed+mentions%3Aloganthomas+'>
+    <img src='./logos/scikit-learn.svg' width='60' title='scikit-learn'>
+  </a>
+  <a href='https://github.com/xarray-contrib/xarray-tutorial/issues?q=author%3Aloganthomas+'>
+    <img src='./logos/xarray.png' width='70' title='Xarray'>
+  </a>
+  <a href='https://github.com/pytorch/pytorch/issues?q=author%3Aloganthomas+'>
+    <img src='./logos/pytorch.svg' width='30' title='PyTorch'>
+  </a>
+  <a href='https://github.com/pytorch/tutorials/issues?q=author%3Aloganthomas+'>
+    <img src='./logos/pytorch.svg' width='30' title='PyTorch Tutorials'>
+  </a>
+  <a href='https://github.com/pyjanitor-devs/pyjanitor/issues?q=is%3Aclosed+mentions%3Aloganthomas'>
+    <img src='./logos/pyjanitor.png' width='30' title='pyjanitor'>
+  </a>
+  <a href='https://github.com/DEAP/deap/issues?q=is%3Aclosed+author%3Aloganthomas+'>
+    <img src='./logos/deap.png' width='60' title='DEAP'>
+  </a>
+  <a href='https://github.com/hgrecco/pint/issues?q=is%3Aclosed+author%3Aloganthomas+'>
+    <img src='./logos/pint-logo.jpeg' width='20' title='Pint'>
+  </a>
+  <a href='https://www.datacamp.com/courses/writing-efficient-python-code'>
+    <img src='./logos/datacamp.svg' width='90' title='DataCamp'>
+  </a>
+  <a href='https://github.com/pytexas/pytexas.github.io/issues?q=is%3Aclosed+author%3Aloganthomas+'>
+    <img src='./logos/pytexas-logo.png' width=30 title='PyTexas'>
+  </a>
+</div>
 
 ### Daily Use
-<img src = './logos/python.svg' width='30'/> <img src = './logos/numpy.svg' width='30'/> <img src = './logos/pandas.svg' width='60'/> <img src = './logos/scikit-learn.svg' width='60'/> <img src = './logos/pytorch.svg' width='30'/> <img src = './logos/tensorflow.svg' width='30'/> <img src = './logos/keras.svg' width='30'/> <img src = './logos/jupyter.svg' width='30'/> <img src = './logos/matplotlib.svg' width='30'/> <img src = './logos/plotly.svg' width='60'/> <img src = './logos/seaborn.svg' width='60'/> <img src = './logos/vim.svg' width='30'/> <img src = './logos/git-icon.svg' width='30'/> <img src = './logos/github-icon.svg' width='30'/> <img src = './logos/slack.svg' width='30'/> <img src = './logos/visual-studio-code.svg' width='30'/>
 
-### Variable Use
-<img src = './logos/aws-s3.svg' width='30'/> <img src = './logos/apache-spark.svg' width='60'/> <img src = './logos/bootstrap.svg' width='30'/>
-<img src = './logos/digital-ocean.svg' width='60'/> <img src = './logos/discord.svg' width='60'/> <img src = './logos/django.svg' width='60'/> <img src = './logos/google-cloud.svg' width='30'/> <img src = './logos/gunicorn.svg' width='60'/> <img src = './logos/homebrew.svg' width='30'/> <img src = './logos/macOS.svg' width='60'/> <img src = './logos/microsoft-windows.svg' width='30'/> <img src = './logos/nginx.svg' width='30'/> <img src = './logos/opencv.svg' width='40'/> <img src = './logos/r-lang.svg' width='30'/> <img src = './logos/sqlite.svg' width='60'/> <img src = './logos/travis-ci.svg' width='30'/>
+<div>
+  <img src='./logos/python.svg' width='30' title='Python'>
+  <img src='./logos/ipython-logo.png' width='60' title='IPython'>
+  <img src='./logos/numpy.svg' width='30' title='NumPy'>
+  <img src='./logos/scipy-logo.svg' width='30' title='SciPy'>
+  <img src='./logos/pandas.svg' width='60' title='pandas'>
+  <img src='./logos/scikit-learn.svg' width='60' title='scikit-learn'>
+  <img src='./logos/pytorch.svg' width='30' title='PyTorch'>
+  <img src='./logos/tensorflow.svg' width='30' title='TensorFlow'>
+  <img src='./logos/keras.svg' width='30' title='Keras'>
+  <img src='./logos/vim.svg' width='30' title='Vim'>
+  <img src='./logos/matplotlib.svg' width='30' title='matplotlib'>
+  <img src='./logos/plotly.svg' width='60' title='plotly'>
+  <img src='./logos/seaborn.svg' width='60' title='seaborn'>
+  <img src='./logos/git-icon.svg' width='30' title='Git'>
+  <img src='./logos/github-icon.svg' width='30' title='GitHub'>
+  <img src='./logos/jupyter.svg' width='30' title='Jupyter'>
+  <img src='./logos/aws-s3.svg' width='30' title='AWS S3'>
+  <!--   <img src='./logos/slack.svg' width='30'> -->
+  <!--   <img src='./logos/visual-studio-code.svg' width='30'> -->
+</div>
 
-## Other Notable Information
-![Logans's GitHub stats](https://github-readme-stats.vercel.app/api?username=loganthomas&count_private=true&show_icons=true&include_all_commits=true&border_color=2e4058)
+<!-- ### Variable Use -->
+<!-- <div> -->
+  
+<!--   <img src='./logos/apache-spark.svg' width='60'> -->
+<!--   <img src='./logos/bootstrap.svg' width='30'> -->
+<!--   <img src='./logos/digital-ocean.svg' width='60'> -->
+<!--   <img src='./logos/discord.svg' width='60'> -->
+<!--   <img src='./logos/django.svg' width='60'> -->
+<!--   <img src='./logos/google-cloud.svg' width='30'> -->
+<!--   <img src='./logos/gunicorn.svg' width='60'> -->
+<!--   <img src='./logos/homebrew.svg' width='30'> -->
+<!--   <img src='./logos/macOS.svg' width='60'> -->
+<!--   <img src='./logos/microsoft-windows.svg' width='30'> -->
+<!--   <img src='./logos/nginx.svg' width='30'> -->
+<!--   <img src='./logos/opencv.svg' width='40'> -->
+<!--   <img src='./logos/r-lang.svg' width='30'> -->
+<!--   <img src='./logos/sqlite.svg' width='60'> -->
+<!--   <img src='./logos/travis-ci.svg' width='30'> -->
+<!-- </div>  -->
 
+## GitHub Activity
+![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=loganthomas&count_private=true&show_icons=true&include_all_commits=true&border_color=2e4058&theme=graywhite)
 
 
 <!--
