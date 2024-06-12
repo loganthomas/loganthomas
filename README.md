@@ -88,6 +88,7 @@
   <img src='./logos/git-icon.svg' width='30' title='Git'>
   <img src='./logos/github-icon.svg' width='30' title='GitHub'>
   <img src='./logos/jupyter.svg' width='30' title='Jupyter'>
+  <img src='./logos/aws.png' width='30' title='AWS'>
   <img src='./logos/aws-s3.svg' width='30' title='AWS S3'>
   <!--   <img src='./logos/slack.svg' width='30'> -->
   <!--   <img src='./logos/visual-studio-code.svg' width='30'> -->
