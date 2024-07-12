@@ -52,6 +52,9 @@
   <a href='https://github.com/pytorch/tutorials/issues?q=author%3Aloganthomas+'>
     <img src='./logos/pytorch.svg' width='30' title='PyTorch Tutorials'>
   </a>
+  <a href='https://github.com/cubyc-dev/cubyc/issues?q=is%3Aclosed+author%3Aloganthomas+'>
+    <img src='./logos/cubyc.svg', width='30', title='Cubyc'>
+  </a>
   <a href='https://github.com/pyjanitor-devs/pyjanitor/issues?q=is%3Aclosed+mentions%3Aloganthomas'>
     <img src='./logos/pyjanitor.png' width='30' title='pyjanitor'>
   </a>
