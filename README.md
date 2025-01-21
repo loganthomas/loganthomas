@@ -21,11 +21,21 @@
 </p>
 
 ## Areas of Expertise
+- Python
 - Data Science
 - Machine Learning
 - Teaching & Mentoring
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=loganthomas&hide=Jupyter%20Notebook&layout=compact&border_color=2e4058)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=loganthomas&hide=Jupyter%20Notebook,HTML&layout=compact&border_color=2e4058)
+
+<!-- See https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#showing-icons -->
+## GitHub Activity
+![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=loganthomas&count_private=true&show_icons=true&include_all_commits=true&border_color=2e4058&theme=graywhite&rank_icon=percentile)
+
+<!--  
+## GitHub Activity
+![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=loganthomas&count_private=true&show_icons=true&include_all_commits=true&border_color=2e4058&theme=graywhite&rank_icon=github)
+-->
 
 
 ## Technologies & Programming Languages
@@ -116,10 +126,6 @@
 <!--   <img src='./logos/sqlite.svg' width='60'> -->
 <!--   <img src='./logos/travis-ci.svg' width='30'> -->
 <!-- </div>  -->
-
-## GitHub Activity
-![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=loganthomas&count_private=true&show_icons=true&include_all_commits=true&border_color=2e4058&theme=graywhite)
-
 
 <!--
 **loganthomas/loganthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
