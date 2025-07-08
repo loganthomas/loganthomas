@@ -28,7 +28,6 @@ Thanks for visiting!
 <!-- See https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#showing-icons -->
 ## GitHub Activity
 ![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=loganthomas&count_private=true&show_icons=true&include_all_commits=true&theme=graywhite&rank_icon=percentile&hide_title=true)
-
 <!--
 ## Technologies & Programming Languages
 ### Contributions
