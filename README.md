@@ -22,11 +22,11 @@ Thanks for visiting!
 - Machine Learning
 - Teaching & Mentoring
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=loganthomas&hide=Jupyter%20Notebook,HTML&layout=compact&border_color=2e4058)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loganthomas&hide=Jupyter%20Notebook,HTML&layout=compact&border_color=2e4058&langs_count=10)
 
 <!-- See https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#showing-icons -->
 ## GitHub Activity
-![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=loganthomas&count_private=true&show_icons=true&include_all_commits=true&border_color=2e4058&theme=graywhite&rank_icon=percentile)
+![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=loganthomas&count_private=true&show_icons=true&include_all_commits=true&theme=graywhite&rank_icon=percentile)
 
 <!--  
 ## GitHub Activity
