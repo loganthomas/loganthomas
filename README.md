@@ -22,16 +22,12 @@ Thanks for visiting!
 - Machine Learning
 - Teaching & Mentoring
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loganthomas&hide=Jupyter%20Notebook,HTML&layout=compact&border_color=2e4058&langs_count=10)
+## Top Programming Languages Used
+![@loganthomas Top Programming Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=loganthomas&hide=Jupyter%20Notebook,HTML&layout=compact&border_color=2e4058&langs_count=10&hide_title=true)
 
 <!-- See https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#showing-icons -->
 ## GitHub Activity
-![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=loganthomas&count_private=true&show_icons=true&include_all_commits=true&theme=graywhite&rank_icon=percentile)
-
-<!--  
-## GitHub Activity
-![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=loganthomas&count_private=true&show_icons=true&include_all_commits=true&border_color=2e4058&theme=graywhite&rank_icon=github)
--->
+![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=loganthomas&count_private=true&show_icons=true&include_all_commits=true&theme=graywhite&rank_icon=percentile&hide_title=true)
 
 <!--
 ## Technologies & Programming Languages
