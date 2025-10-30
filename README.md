@@ -95,6 +95,7 @@ Thanks for visiting!
 | <img src='./logos/scipy-logo.svg' width='20' title='SciPy'> [SciPy][re4]                       | [![issues][ib4]][il4]   | [![pulls][pb4]][pl4] |
 | <img src='./logos/xarray.png' width='45' title='Xarray'> [Xarray][re7] | [![issues][ib7]][il7]   | [![pulls][pb7]][pl7] |
 | <img src='./logos/pint-logo.jpeg' width='10' title='Pint'> [Pint][re11] | [![issues][ib11]][il11]   | [![pulls][pb11]][pl11] |
+| <img src='./logos/python.svg' width='17' title='utt'> [utt][re12] | [![issues][ib12]][il12]   | [![pulls][pb12]][pl12] |
 | <img src='./logos/datacamp.svg' width='45' title='DataCamp'> [DataCamp](https://www.datacamp.com/courses/writing-efficient-python-code) |    |  |
 
 
@@ -199,6 +200,12 @@ Thanks for visiting!
 [il11]: https://github.com/hgrecco/pint/issues?q=is:issue+involves:loganthomas
 [pb11]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3Ahgrecco%2Fpint%2Bis%3Apr%2Binvolves%3Aloganthomas&query=%24.total_count&style=flat&label=pulls&color=orange
 [pl11]: https://github.com/hgrecco/pint/issues?q=is:pr+involves:loganthomas
+
+[re12]: https://github.com/larose/utt "utt"
+[ib12]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3Alarose%2Futt%2Bis%3Aissue%2Binvolves%3Aloganthomas&query=%24.total_count&style=flat&label=issues
+[il12]: https://github.com/larose/utt/issues?q=is:issue+involves:loganthomas
+[pb12]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3Alarose%2Futt%2Bis%3Apr%2Binvolves%3Aloganthomas&query=%24.total_count&style=flat&label=pulls&color=orange
+[pl12]: https://github.com/larose/utt/issues?q=is:pr+involves:loganthomas
 
 
 <!-- ### Daily Use -->
