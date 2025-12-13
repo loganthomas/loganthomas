@@ -90,12 +90,13 @@ Thanks for visiting!
 | <img src='./logos/scipy-logo.svg' width='20' title='SciPy Conference'> [SciPy Conference][re5] | [![issues][ib5]][il5]   | [![pulls][pb5]][pl5] |
 | <img src='./logos/cubyc.svg' width='15' title='Cubyc'> [Cubyc][re8] | [![issues][ib8]][il8]   | [![pulls][pb8]][pl8] |
 | <img src='./logos/deap.png' width='30' title='DEAP'> [DEAP][re10] | [![issues][ib10]][il10]   | [![pulls][pb10]][pl10] |
+| <img src='./logos/python.svg' width='17' title='utt'> [utt][re12] | [![issues][ib12]][il12]   | [![pulls][pb12]][pl12] |
 | <img src='./logos/numpy.svg' width='17' title='NumPy'> [NumPy][re3]                            | [![issues][ib3]][il3]   | [![pulls][pb3]][pl3] |
 | <img src='./logos/scikit-learn.svg' width='30' title='scikit-learn'> [scikit-learn][re6] | [![issues][ib6]][il6]   | [![pulls][pb6]][pl6] |
+| [beads][re13]                       | [![issues][ib13]][il13]   | [![pulls][pb13]][pl13] |
 | <img src='./logos/scipy-logo.svg' width='20' title='SciPy'> [SciPy][re4]                       | [![issues][ib4]][il4]   | [![pulls][pb4]][pl4] |
 | <img src='./logos/xarray.png' width='45' title='Xarray'> [Xarray][re7] | [![issues][ib7]][il7]   | [![pulls][pb7]][pl7] |
 | <img src='./logos/pint-logo.jpeg' width='10' title='Pint'> [Pint][re11] | [![issues][ib11]][il11]   | [![pulls][pb11]][pl11] |
-| <img src='./logos/python.svg' width='17' title='utt'> [utt][re12] | [![issues][ib12]][il12]   | [![pulls][pb12]][pl12] |
 | <img src='./logos/datacamp.svg' width='45' title='DataCamp'> [DataCamp](https://www.datacamp.com/courses/writing-efficient-python-code) |    |  |
 
 
@@ -207,6 +208,11 @@ Thanks for visiting!
 [pb12]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3Alarose%2Futt%2Bis%3Apr%2Binvolves%3Aloganthomas&query=%24.total_count&style=flat&label=pulls&color=orange
 [pl12]: https://github.com/larose/utt/issues?q=is:pr+involves:loganthomas
 
+[re13]: https://github.com/steveyegge/beads "beads"
+[ib13]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3Asteveyegge%2Fbeads%2Bis%3Aissue%2Binvolves%3Aloganthomas&query=%24.total_count&style=flat&label=issues
+[il13]: https://github.com/steveyegge/beads/issues?q=is:issue+involves:loganthomas
+[pb13]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3Asteveyegge%2Fbeads%2Bis%3Apr%2Binvolves%3Aloganthomas&query=%24.total_count&style=flat&label=pulls&color=orange
+[pl13]: https://github.com/steveyegge/beads/issues?q=is:pr+involves:loganthomas
 
 <!-- ### Daily Use -->
 <!-- <div> -->
