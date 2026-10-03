@@ -175,7 +175,7 @@ Thanks for visiting!
 
 [re7]: https://github.com/xarray-contrib/xarray-tutorial "Xarray"
 [ib7]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3Axarray-contrib%2Fxarray-tutorial%2Bis%3Aissue%2Binvolves%3Aloganthomas&query=%24.total_count&style=flat&label=issues
-[il7]: https://github.com/xarray-contrib/scikit-learn/issues?q=is:issue+involves:loganthomas
+[il7]: https://github.com/xarray-contrib/xarray-tutorial/issues?q=is:issue+involves:loganthomas
 [pb7]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3Axarray-contrib%2Fxarray-tutorial%2Bis%3Apr%2Binvolves%3Aloganthomas&query=%24.total_count&style=flat&label=pulls&color=orange
 [pl7]: https://github.com/xarray-contrib/xarray-tutorial/issues?q=is:pr+involves:loganthomas
 
