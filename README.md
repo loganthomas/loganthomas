@@ -88,7 +88,7 @@ Thanks for visiting!
 | <img src='./logos/pytorch.svg' height='20' title='PyTorch'> [PyTorch (Tutorials)][re2]          | [![issues][ib2]][il2]   | [![pulls][pb2]][pl2] |
 | <img src='./logos/pytorch.svg' height='20' title='PyTorch'> [PyTorch][re1]                      | [![issues][ib1]][il1]   | [![pulls][pb1]][pl1] |
 | <img src='./logos/scipy-logo.svg' height='20' title='SciPy Conference'> [SciPy Conference][re5] | [![issues][ib5]][il5]   | [![pulls][pb5]][pl5] |
-| <img src='./logos/cubyc.svg' height='20' title='Cubyc'> [Cubyc][re8] | [![issues][ib8]][il8]   | [![pulls][pb8]][pl8] |
+| <img src='./logos/cubyc.svg' height='20' title='Cubyc'> Cubyc |    |  |
 | <img src='./logos/deap.svg' height='20' title='DEAP'> [DEAP][re10] | [![issues][ib10]][il10]   | [![pulls][pb10]][pl10] |
 | <img src='./logos/python.svg' height='20' title='utt'> [utt][re12] | [![issues][ib12]][il12]   | [![pulls][pb12]][pl12] |
 | <img src='./logos/numpy.svg' height='20' title='NumPy'> [NumPy][re3]                            | [![issues][ib3]][il3]   | [![pulls][pb3]][pl3] |
@@ -179,12 +179,6 @@ Thanks for visiting!
 [pb7]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3Axarray-contrib%2Fxarray-tutorial%2Bis%3Apr%2Binvolves%3Aloganthomas&query=%24.total_count&style=flat&label=pulls&color=orange
 [pl7]: https://github.com/xarray-contrib/xarray-tutorial/issues?q=is:pr+involves:loganthomas
 
-[re8]: https://github.com/cubyc-dev/cubyc/ "Cubyc"
-[ib8]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3Acubyc-dev%2Fcubyc%2Bis%3Aissue%2Binvolves%3Aloganthomas&query=%24.total_count&style=flat&label=issues
-[il8]: https://github.com/cubyc-dev/cubyc/issues?q=is:issue+involves:loganthomas
-[pb8]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3Acubyc-dev%2Fcubyc%2Bis%3Apr%2Binvolves%3Aloganthomas&query=%24.total_count&style=flat&label=pulls&color=orange
-[pl8]: https://github.com/cubyc-dev/cubyc/issues?q=is:pr+involves:loganthomas
-
 [re9]: https://github.com/pyjanitor-devs/pyjanitor/ "pyjanitor"
 [ib9]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3Apyjanitor-devs%2Fpyjanitor%2Bis%3Aissue%2Binvolves%3Aloganthomas&query=%24.total_count&style=flat&label=issues
 [il9]: https://github.com/pyjanitor-devs/pyjanitor/issues?q=is:issue+involves:loganthomas
@@ -209,11 +203,11 @@ Thanks for visiting!
 [pb12]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3Alarose%2Futt%2Bis%3Apr%2Binvolves%3Aloganthomas&query=%24.total_count&style=flat&label=pulls&color=orange
 [pl12]: https://github.com/larose/utt/issues?q=is:pr+involves:loganthomas
 
-[re13]: https://github.com/steveyegge/beads "beads"
-[ib13]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3Asteveyegge%2Fbeads%2Bis%3Aissue%2Binvolves%3Aloganthomas&query=%24.total_count&style=flat&label=issues
-[il13]: https://github.com/steveyegge/beads/issues?q=is:issue+involves:loganthomas
-[pb13]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3Asteveyegge%2Fbeads%2Bis%3Apr%2Binvolves%3Aloganthomas&query=%24.total_count&style=flat&label=pulls&color=orange
-[pl13]: https://github.com/steveyegge/beads/issues?q=is:pr+involves:loganthomas
+[re13]: https://github.com/gastownhall/beads "beads"
+[ib13]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3Agastownhall%2Fbeads%2Bis%3Aissue%2Binvolves%3Aloganthomas&query=%24.total_count&style=flat&label=issues
+[il13]: https://github.com/gastownhall/beads/issues?q=is:issue+involves:loganthomas
+[pb13]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3Agastownhall%2Fbeads%2Bis%3Apr%2Binvolves%3Aloganthomas&query=%24.total_count&style=flat&label=pulls&color=orange
+[pl13]: https://github.com/gastownhall/beads/issues?q=is:pr+involves:loganthomas
 
 [re14]: https://github.com/modem-dev/hunk "hunk"
 [ib14]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3Amodem-dev%2Fhunk%2Bis%3Aissue%2Binvolves%3Aloganthomas&query=%24.total_count&style=flat&label=issues
