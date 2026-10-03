@@ -23,11 +23,11 @@ Thanks for visiting!
 - Teaching & Mentoring
 
 ## Top Programming Languages Used
-![@loganthomas Top Programming Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=loganthomas&hide=Jupyter%20Notebook,HTML,Vim%20Script&layout=compact&border_color=2e4058&langs_count=10&hide_title=true)
+![@loganthomas Top Programming Languages Used](./profile/top-langs.svg)
 
 <!-- See https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#showing-icons -->
 ## GitHub Activity
-![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=loganthomas&count_private=true&show_icons=true&include_all_commits=true&theme=graywhite&rank_icon=percentile&hide_title=true&border_color=2e4058)
+![Logan's GitHub stats](./profile/stats.svg)
 <!--
 ## Technologies & Programming Languages
 ### Contributions
@@ -45,7 +45,7 @@ Thanks for visiting!
     <img src='./logos/scikit-learn.svg' width='60' title='scikit-learn'>
   </a>
   <a href='https://github.com/xarray-contrib/xarray-tutorial/issues?q=author%3Aloganthomas+'>
-    <img src='./logos/xarray.png' width='70' title='Xarray'>
+    <img src='./logos/xarray.svg' width='70' title='Xarray'>
   </a>
   <a href='https://github.com/pytorch/pytorch/issues?q=author%3Aloganthomas+'>
     <img src='./logos/pytorch.svg' width='30' title='PyTorch'>
@@ -57,13 +57,13 @@ Thanks for visiting!
     <img src='./logos/cubyc.svg', width='30', title='Cubyc'>
   </a>
   <a href='https://github.com/pyjanitor-devs/pyjanitor/issues?q=is%3Aclosed+mentions%3Aloganthomas'>
-    <img src='./logos/pyjanitor.png' width='30' title='pyjanitor'>
+    <img src='./logos/pyjanitor.svg' width='30' title='pyjanitor'>
   </a>
   <a href='https://github.com/DEAP/deap/issues?q=is%3Aclosed+author%3Aloganthomas+'>
-    <img src='./logos/deap.png' width='60' title='DEAP'>
+    <img src='./logos/deap.svg' width='60' title='DEAP'>
   </a>
   <a href='https://github.com/hgrecco/pint/issues?q=is%3Aclosed+author%3Aloganthomas+'>
-    <img src='./logos/pint-logo.jpeg' width='20' title='Pint'>
+    <img src='./logos/pint.svg' width='20' title='Pint'>
   </a>
   <a href='https://www.datacamp.com/courses/writing-efficient-python-code'>
     <img src='./logos/datacamp.svg' width='90' title='DataCamp'>
@@ -84,20 +84,21 @@ Thanks for visiting!
 
 | Project                                                                                        | Issues                  | Pull requests        |
 | :--------------------------------------------------------------------------------------------- | :---------------------- | :------------------- |
-| <img src='./logos/pyjanitor.png' width='20' title='pyjanitor'> [pyjanitor][re9] | [![issues][ib9]][il9]   | [![pulls][pb9]][pl9] |
-| <img src='./logos/pytorch.svg' width='15' title='PyTorch'> [PyTorch (Tutorials)][re2]          | [![issues][ib2]][il2]   | [![pulls][pb2]][pl2] |
-| <img src='./logos/pytorch.svg' width='15' title='PyTorch'> [PyTorch][re1]                      | [![issues][ib1]][il1]   | [![pulls][pb1]][pl1] |
-| <img src='./logos/scipy-logo.svg' width='20' title='SciPy Conference'> [SciPy Conference][re5] | [![issues][ib5]][il5]   | [![pulls][pb5]][pl5] |
-| <img src='./logos/cubyc.svg' width='15' title='Cubyc'> [Cubyc][re8] | [![issues][ib8]][il8]   | [![pulls][pb8]][pl8] |
-| <img src='./logos/deap.png' width='30' title='DEAP'> [DEAP][re10] | [![issues][ib10]][il10]   | [![pulls][pb10]][pl10] |
-| <img src='./logos/python.svg' width='17' title='utt'> [utt][re12] | [![issues][ib12]][il12]   | [![pulls][pb12]][pl12] |
-| <img src='./logos/numpy.svg' width='17' title='NumPy'> [NumPy][re3]                            | [![issues][ib3]][il3]   | [![pulls][pb3]][pl3] |
-| <img src='./logos/scikit-learn.svg' width='30' title='scikit-learn'> [scikit-learn][re6] | [![issues][ib6]][il6]   | [![pulls][pb6]][pl6] |
+| <img src='./logos/pyjanitor.svg' height='20' title='pyjanitor'> [pyjanitor][re9] | [![issues][ib9]][il9]   | [![pulls][pb9]][pl9] |
+| <img src='./logos/pytorch.svg' height='20' title='PyTorch'> [PyTorch (Tutorials)][re2]          | [![issues][ib2]][il2]   | [![pulls][pb2]][pl2] |
+| <img src='./logos/pytorch.svg' height='20' title='PyTorch'> [PyTorch][re1]                      | [![issues][ib1]][il1]   | [![pulls][pb1]][pl1] |
+| <img src='./logos/scipy-logo.svg' height='20' title='SciPy Conference'> [SciPy Conference][re5] | [![issues][ib5]][il5]   | [![pulls][pb5]][pl5] |
+| <img src='./logos/cubyc.svg' height='20' title='Cubyc'> [Cubyc][re8] | [![issues][ib8]][il8]   | [![pulls][pb8]][pl8] |
+| <img src='./logos/deap.svg' height='20' title='DEAP'> [DEAP][re10] | [![issues][ib10]][il10]   | [![pulls][pb10]][pl10] |
+| <img src='./logos/python.svg' height='20' title='utt'> [utt][re12] | [![issues][ib12]][il12]   | [![pulls][pb12]][pl12] |
+| <img src='./logos/numpy.svg' height='20' title='NumPy'> [NumPy][re3]                            | [![issues][ib3]][il3]   | [![pulls][pb3]][pl3] |
+| <img src='./logos/scikit-learn.svg' height='20' title='scikit-learn'> [scikit-learn][re6] | [![issues][ib6]][il6]   | [![pulls][pb6]][pl6] |
 | [beads][re13]                       | [![issues][ib13]][il13]   | [![pulls][pb13]][pl13] |
-| <img src='./logos/scipy-logo.svg' width='20' title='SciPy'> [SciPy][re4]                       | [![issues][ib4]][il4]   | [![pulls][pb4]][pl4] |
-| <img src='./logos/xarray.png' width='45' title='Xarray'> [Xarray][re7] | [![issues][ib7]][il7]   | [![pulls][pb7]][pl7] |
-| <img src='./logos/pint-logo.jpeg' width='10' title='Pint'> [Pint][re11] | [![issues][ib11]][il11]   | [![pulls][pb11]][pl11] |
-| <img src='./logos/datacamp.svg' width='45' title='DataCamp'> [DataCamp](https://www.datacamp.com/courses/writing-efficient-python-code) |    |  |
+| <img src='./logos/scipy-logo.svg' height='20' title='SciPy'> [SciPy][re4]                       | [![issues][ib4]][il4]   | [![pulls][pb4]][pl4] |
+| <img src='./logos/xarray.svg' height='20' title='Xarray'> [Xarray][re7] | [![issues][ib7]][il7]   | [![pulls][pb7]][pl7] |
+| <img src='./logos/pint.svg' height='20' title='Pint'> [Pint][re11] | [![issues][ib11]][il11]   | [![pulls][pb11]][pl11] |
+| <img src='./logos/hunk.svg' height='20' title='hunk'> [hunk][re14] | [![issues][ib14]][il14]   | [![pulls][pb14]][pl14] |
+| <img src='./logos/datacamp.svg' height='20' title='DataCamp'> [DataCamp](https://www.datacamp.com/courses/writing-efficient-python-code) |    |  |
 
 
 
@@ -174,7 +175,7 @@ Thanks for visiting!
 
 [re7]: https://github.com/xarray-contrib/xarray-tutorial "Xarray"
 [ib7]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3Axarray-contrib%2Fxarray-tutorial%2Bis%3Aissue%2Binvolves%3Aloganthomas&query=%24.total_count&style=flat&label=issues
-[il7]: https://github.com/xarray-contrib/scikit-learn/issues?q=is:issue+involves:loganthomas
+[il7]: https://github.com/xarray-contrib/xarray-tutorial/issues?q=is:issue+involves:loganthomas
 [pb7]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3Axarray-contrib%2Fxarray-tutorial%2Bis%3Apr%2Binvolves%3Aloganthomas&query=%24.total_count&style=flat&label=pulls&color=orange
 [pl7]: https://github.com/xarray-contrib/xarray-tutorial/issues?q=is:pr+involves:loganthomas
 
@@ -214,10 +215,16 @@ Thanks for visiting!
 [pb13]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3Asteveyegge%2Fbeads%2Bis%3Apr%2Binvolves%3Aloganthomas&query=%24.total_count&style=flat&label=pulls&color=orange
 [pl13]: https://github.com/steveyegge/beads/issues?q=is:pr+involves:loganthomas
 
+[re14]: https://github.com/modem-dev/hunk "hunk"
+[ib14]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3Amodem-dev%2Fhunk%2Bis%3Aissue%2Binvolves%3Aloganthomas&query=%24.total_count&style=flat&label=issues
+[il14]: https://github.com/modem-dev/hunk/issues?q=is:issue+involves:loganthomas
+[pb14]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3Amodem-dev%2Fhunk%2Bis%3Apr%2Binvolves%3Aloganthomas&query=%24.total_count&style=flat&label=pulls&color=orange
+[pl14]: https://github.com/modem-dev/hunk/issues?q=is:pr+involves:loganthomas
+
 <!-- ### Daily Use -->
 <!-- <div> -->
 <!--   <img src='./logos/python.svg' width='30' title='Python'> -->
-<!--   <img src='./logos/ipython-logo.png' width='60' title='IPython'> -->
+<!--   <img src='./logos/ipython.svg' width='60' title='IPython'> -->
 <!--   <img src='./logos/numpy.svg' width='30' title='NumPy'> -->
 <!--   <img src='./logos/scipy-logo.svg' width='30' title='SciPy'> -->
 <!--   <img src='./logos/pandas.svg' width='60' title='pandas'> -->
@@ -232,7 +239,7 @@ Thanks for visiting!
 <!--   <img src='./logos/git-icon.svg' width='30' title='Git'> -->
 <!--   <img src='./logos/github-icon.svg' width='30' title='GitHub'> -->
 <!--   <img src='./logos/jupyter.svg' width='30' title='Jupyter'> -->
-<!--   <img src='./logos/aws.png' width='30' title='AWS'> -->
+<!--   <img src='./logos/aws.svg' width='30' title='AWS'> -->
 <!--   <img src='./logos/aws-s3.svg' width='30' title='AWS S3'> -->
   <!--   <img src='./logos/slack.svg' width='30'> -->
   <!--   <img src='./logos/visual-studio-code.svg' width='30'> -->
