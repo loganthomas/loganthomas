@@ -23,11 +23,11 @@ Thanks for visiting!
 - Teaching & Mentoring
 
 ## Top Programming Languages Used
-![@loganthomas Top Programming Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=loganthomas&hide=Jupyter%20Notebook,HTML,Vim%20Script&layout=compact&border_color=2e4058&langs_count=10&hide_title=true)
+![@loganthomas Top Programming Languages Used](./profile/top-langs.svg)
 
 <!-- See https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#showing-icons -->
 ## GitHub Activity
-![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=loganthomas&count_private=true&show_icons=true&include_all_commits=true&theme=graywhite&rank_icon=percentile&hide_title=true&border_color=2e4058)
+![Logan's GitHub stats](./profile/stats.svg)
 <!--
 ## Technologies & Programming Languages
 ### Contributions
@@ -97,6 +97,7 @@ Thanks for visiting!
 | <img src='./logos/scipy-logo.svg' width='20' title='SciPy'> [SciPy][re4]                       | [![issues][ib4]][il4]   | [![pulls][pb4]][pl4] |
 | <img src='./logos/xarray.png' width='45' title='Xarray'> [Xarray][re7] | [![issues][ib7]][il7]   | [![pulls][pb7]][pl7] |
 | <img src='./logos/pint-logo.jpeg' width='10' title='Pint'> [Pint][re11] | [![issues][ib11]][il11]   | [![pulls][pb11]][pl11] |
+| <img src='./logos/hunk.svg' width='15' title='hunk'> [hunk][re14] | [![issues][ib14]][il14]   | [![pulls][pb14]][pl14] |
 | <img src='./logos/datacamp.svg' width='45' title='DataCamp'> [DataCamp](https://www.datacamp.com/courses/writing-efficient-python-code) |    |  |
 
 
@@ -213,6 +214,12 @@ Thanks for visiting!
 [il13]: https://github.com/steveyegge/beads/issues?q=is:issue+involves:loganthomas
 [pb13]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3Asteveyegge%2Fbeads%2Bis%3Apr%2Binvolves%3Aloganthomas&query=%24.total_count&style=flat&label=pulls&color=orange
 [pl13]: https://github.com/steveyegge/beads/issues?q=is:pr+involves:loganthomas
+
+[re14]: https://github.com/modem-dev/hunk "hunk"
+[ib14]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3Amodem-dev%2Fhunk%2Bis%3Aissue%2Binvolves%3Aloganthomas&query=%24.total_count&style=flat&label=issues
+[il14]: https://github.com/modem-dev/hunk/issues?q=is:issue+involves:loganthomas
+[pb14]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3Amodem-dev%2Fhunk%2Bis%3Apr%2Binvolves%3Aloganthomas&query=%24.total_count&style=flat&label=pulls&color=orange
+[pl14]: https://github.com/modem-dev/hunk/issues?q=is:pr+involves:loganthomas
 
 <!-- ### Daily Use -->
 <!-- <div> -->
