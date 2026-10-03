@@ -20,7 +20,7 @@ jobs:
     env:
       # Optional PAT (repo + read:user) adds private contributions; GITHUB_TOKEN covers public only.
       STATS_TOKEN: ${{ secrets.README_STATS_TOKEN || secrets.GITHUB_TOKEN }}
-      CARD_STYLE: border_color=2e4058&theme=graywhite
+      CARD_STYLE: theme=transparent&hide_border=true
     steps:
       - uses: actions/checkout@v6
 
